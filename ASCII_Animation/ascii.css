@@ -1,0 +1,33 @@
+body {
+  background: #CCCCFF;
+  font-family: sans-serif;
+}
+
+.container {
+  display: grid;
+  margin: auto;
+  width: 70%;
+  padding: 10px;
+  row-gap: 10px;
+}
+
+header {
+  text-align: center;
+}
+
+textarea {
+  height: 500px;
+}
+
+.btns {
+  display: flex;
+  justify-content: center;
+}
+
+fieldset {
+  border: 4px solid black;
+}
+
+.validator {
+  text-align: right;
+}
